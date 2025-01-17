@@ -20,8 +20,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="JSX logo" />
   </p>
 
 <p>
@@ -47,7 +45,7 @@
   <p>
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" height="30" alt="Laravel logo" />
     <img width="12" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" height="30" alt="Django logo" />
+    <img src="https://1000logos.net/wp-content/uploads/2020/08/Django-Logo.png" height="30" alt="Django logo" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="NodeJS logo" />
     <img width="12" />
@@ -65,7 +63,7 @@
   </p>
 
 <p>
-    <img src="https://www.svgrepo.com/show/306500/openai.svg" height="30" alt="OpenAI logo" />
+    <img src="https://chatgptaihub.com/wp-content/uploads/2023/06/ChatGpt-Logo-with-Black-Background.png" height="30" alt="OpenAI logo" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow logo" />
     <img width="12" />
@@ -111,7 +109,7 @@
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub logo" />
+    <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" height="30" alt="GitHub logo" />
   </p>
 
 
