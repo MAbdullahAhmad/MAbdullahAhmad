@@ -81,19 +81,11 @@
 </p>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="Shell logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="30" alt="PowerShell logo" />
-</p>
-
-<p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Qt_logo_neon_2022.svg" height="30" alt="PyQT6 logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/P5js_Logo.svg" height="30" alt="p5.js logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" height="30" alt="Processing i3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin logo" />
 </p>
 
 <p>
@@ -102,10 +94,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="Arduino logo" />
   <img width="12" />
   <img src="https://avatars.githubusercontent.com/u/9460735?s=200&v=4" height="30" alt="ESP32 logo" />
-</p>
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin logo" />
 </p>
 
 <p>
