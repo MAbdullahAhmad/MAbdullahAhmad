@@ -41,6 +41,8 @@ I work in:
 
 <!-- **Frameworks & Stacks** -->
 <p>
+  <a href="https://nginx.org/" title="Nginx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/pi-hosted/pi-hosted/master/images/nginx-icon.png"  width="30" height="30"  alt="Nginx logo" /></a>
+  <img width="5" />
   <a href="https://react.dev/" title="React" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="30" height="30"  alt="React logo" /></a>
   <img width="5" />
   <a href="https://vuejs.org/" title="Vue.js" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"  width="30" height="30"  alt="Vue.js logo" /></a>
@@ -56,6 +58,12 @@ I work in:
   <a href="https://supabase.com/" title="Supabase" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/54469796?v=4"  width="30" height="30"  alt="Supabase logo" /></a>
   <img width="5" />
   <a href="https://neo4j.com/" title="Neo4j" target="_blank" rel="noreferrer"><img src="https://wsrv.nl/?url=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg&bg=ffffff"  width="30" height="30" alt="Neo4j logo" /></a>
+  <img width="5" />
+  <a href="https://www.mysql.com/" title="MySQL" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MySQL-Light.svg"  width="30" height="30"  alt="MySQL logo" /></a>
+  <img width="5" />
+  <a href="https://www.apachefriends.org/index.html" title="XAMPP" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/01d930ec77a47817e67972359f7b9141941cd1e0bddb6d930680920f1b3d5e99/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f78616d70702e737667"  width="30" height="30"  alt="XAMPP logo" /></a>
+  <img width="5" />
+  <a href="https://laravel.com/" title="Laravel" target="_blank" rel="noreferrer"><img src="https://static.cdnlogo.com/logos/l/23/laravel.svg"  width="30" height="30"  alt="Laravel logo" /></a>
 </p>
 
 <!-- **AI, Cloud & Integrations** -->
@@ -125,6 +133,15 @@ I work in:
   <img width="5" />
   <a href="https://www.espressif.com/en/products/socs/esp32" title="ESP32" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/9460735?s=200&v=4"  width="30" height="30"  alt="ESP32 logo" /></a>
 </p>
+
+<!-- **Integrations** -->
+<!--
+<p>
+  <a href="https://www.shopify.com/" title="Shopify" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/5264950?v=4"  width="30" height="30"  alt="Shopify logo" /></a>
+  <img width="5" />
+  <a href="https://quickbooks.intuit.com/" title="QuickBooks" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/quickbooks-2.svg"  width="30" height="30"  alt="QuickBooks logo" /></a>
+</p>
+-->
 
 <!-- **Payments & Blockchain** -->
 <p>
