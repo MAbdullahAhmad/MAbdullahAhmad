@@ -1,6 +1,7 @@
 # &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;👋🏻 Hello
 
 <!-- Contributions: README icons and docs improvements added. -->
+<!-- White bg icons now use wsrv.nl proxy wrappers for GitHub rendering. -->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MAbdullahAhmad&theme=github-compact&days=30&grid=true&bg_color=0000&hide_border=true&line=4493f8&point=fff&custom_title=Last%2030%20Days%20Contributions)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -44,30 +45,30 @@
   <img width="12" />
   <a href="https://nodejs.org/" title="Node.js" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" style="width:auto;" alt="Node.js logo" /></a>
   <img width="12" />
-  <a href="https://expressjs.com/" title="Express" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" style="background:#fff; padding:3px; width:auto;" alt="Express logo" /></a>
+  <a href="https://expressjs.com/" title="Express" target="_blank" rel="noreferrer"><img src="https://wsrv.nl/?url=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg&bg=ffffff" height="30" alt="Express logo" /></a>
   <img width="12" />
   <a href="https://www.mongodb.com/" title="MongoDB" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" style="width:auto;" alt="MongoDB logo" /></a>
   <img width="12" />
   <a href="https://www.postgresql.org/" title="PostgreSQL" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" style="width:auto;" alt="PostgreSQL logo" /></a>
   <img width="12" />
-  <a href="https://neo4j.com/" title="Neo4j" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="30" style="background:#fff; padding:3px; width:auto;" alt="Neo4j logo" /></a>
+  <a href="https://neo4j.com/" title="Neo4j" target="_blank" rel="noreferrer"><img src="https://wsrv.nl/?url=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg&bg=ffffff" height="30" alt="Neo4j logo" /></a>
 </p>
 
 **AI, Cloud & Integrations**
 <p>
   <a href="https://www.docker.com" title="Docker" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/master/docker-new-blue.svg" height="30" style="width:auto;" alt="Docker logo" /></a>
   <img width="12" />
-  <a href="https://www.modelcontextprotocol.org/" title="MCP" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/mcp.svg" height="30" style="background:#fff; padding:3px; width:auto;" alt="MCP logo" /></a>
+  <a href="https://www.modelcontextprotocol.org/" title="MCP" target="_blank" rel="noreferrer"><img src="https://wsrv.nl/?url=https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/mcp.svg&bg=ffffff" height="30" alt="MCP logo" /></a>
   <img width="12" />
-  <a href="https://n8n.io" title="n8n" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/n8n-color.svg" height="30" style="background:#fff; padding:3px; width:auto;" alt="n8n logo" /></a>
+  <a href="https://n8n.io" title="n8n" target="_blank" rel="noreferrer"><img src="https://wsrv.nl/?url=https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/n8n-color.svg&bg=ffffff" height="30" alt="n8n logo" /></a>
   <img width="12" />
   <a href="https://www.cloudflare.com" title="Cloudflare" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/cloudflare-color.svg" height="30" style="width:auto;" alt="Cloudflare logo" /></a>
   <img width="12" />
-  <a href="https://vercel.com" title="Vercel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/vercel.svg" height="30" style="background:#fff; padding:3px; width:auto;" alt="Vercel logo" /></a>
+  <a href="https://vercel.com" title="Vercel" target="_blank" rel="noreferrer"><img src="https://wsrv.nl/?url=https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/vercel.svg&bg=ffffff" height="30" alt="Vercel logo" /></a>
   <img width="12" />
   <a href="https://groq.com" title="Groq" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/groq.webp" height="30" style="width:auto;" alt="Groq logo" /></a>
   <img width="12" />
-  <a href="https://openai.com" title="OpenAI" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/openai.svg" height="30" style="background:#fff; padding:3px; width:auto;" alt="OpenAI logo" /></a>
+  <a href="https://openai.com" title="OpenAI" target="_blank" rel="noreferrer"><img src="https://wsrv.nl/?url=https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/openai.svg&bg=ffffff" height="30" alt="OpenAI logo" /></a>
   <img width="12" />
   <a href="https://cloud.google.com" title="Google Cloud" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-cloud.svg" height="30" style="width:auto;" alt="Google Cloud logo" /></a>
 </p>
@@ -90,9 +91,9 @@
   <img width="12" />
   <a href="https://numpy.org/" title="NumPy" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" style="width:auto;" alt="NumPy logo" /></a>
   <img width="12" />
-  <a href="https://pandas.pydata.org/" title="Pandas" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" style="background:#fff; padding:3px; width:auto;" alt="Pandas logo" /></a>
+  <a href="https://pandas.pydata.org/" title="Pandas" target="_blank" rel="noreferrer"><img src="https://wsrv.nl/?url=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg&bg=ffffff" height="30" alt="Pandas logo" /></a>
   <img width="12" />
-  <a href="https://jupyter.org/" title="Jupyter" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" style="background:#fff; padding:3px; width:auto;" alt="Jupyter Notebook logo" /></a>
+  <a href="https://jupyter.org/" title="Jupyter" target="_blank" rel="noreferrer"><img src="https://wsrv.nl/?url=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg&bg=ffffff" height="30" alt="Jupyter Notebook logo" /></a>
 </p>
 
 **Tools & IDEs**
@@ -101,11 +102,11 @@
   <img width="12" />
   <a href="https://code.visualstudio.com/" title="VSCode" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" style="width:auto;" alt="VSCode logo" /></a>
   <img width="12" />
-  <a href="https://developer.android.com/studio" title="Android Studio" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" style="background:#fff; padding:3px; width:auto;" alt="Android Studio logo" /></a>
+  <a href="https://developer.android.com/studio" title="Android Studio" target="_blank" rel="noreferrer"><img src="https://wsrv.nl/?url=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg&bg=ffffff" height="30" alt="Android Studio logo" /></a>
   <img width="12" />
-  <a href="https://www.gnu.org/software/bash/" title="Bash" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" style="background:#fff; padding:3px; width:auto;" alt="Bash logo" /></a>
+  <a href="https://www.gnu.org/software/bash/" title="Bash" target="_blank" rel="noreferrer"><img src="https://wsrv.nl/?url=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg&bg=ffffff" height="30" alt="Bash logo" /></a>
   <img width="12" />
-  <a href="https://github.com/" title="GitHub" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" style="background:#fff; padding:3px; width:auto;" alt="GitHub logo" /></a>
+  <a href="https://github.com/" title="GitHub" target="_blank" rel="noreferrer"><img src="https://wsrv.nl/?url=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg&bg=ffffff" height="30" alt="GitHub logo" /></a>
 </p>
 
 **Hardware & Maker**

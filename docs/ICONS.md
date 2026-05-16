@@ -17,3 +17,7 @@ Additional notes:
 - `MCP` is now included as a first-level integration icon in the AI/Cloud section with a white background for visual consistency.
 - `Docker`, `n8n`, `Cloudflare`, `Vercel`, and `Groq` are ordered earlier in the integration block to reflect current programming relevance.
 - White-background icons are used selectively for logos that need contrast against the README background.
+- GitHub README sanitizes inline HTML/CSS, so `style="background:#fff"` may not render on profile pages. Use a pre-rendered white-background image or a proxy image wrapper such as `wsrv.nl`.
+
+Example:
+- `![Icon](https://wsrv.nl/?url=YOUR_RAW_SVG_URL&bg=ffffff)`
