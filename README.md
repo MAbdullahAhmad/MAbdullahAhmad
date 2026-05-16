@@ -83,6 +83,8 @@ I work in:
   <img width="5" />
   <a href="https://www.netlify.com/" title="Netlify" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/netlify-icon.svg"  width="30" height="30" alt="Netlify logo" /></a>
   <img width="5" />
+  <a href="https://cpanel.net/" title="cPanel" target="_blank" rel="noreferrer"><img src="https://wsrv.nl/?url=https://brandlogovector.com/wp-content/uploads/2022/02/Cpanel-Icon-Logo-Small.png&bg=ffffff"  width="30" height="30"  alt="cPanel logo" /></a>
+  <img width="5" />
   <a href="https://www.apachefriends.org/index.html" title="XAMPP" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/01d930ec77a47817e67972359f7b9141941cd1e0bddb6d930680920f1b3d5e99/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f78616d70702e737667"  width="30" height="30"  alt="XAMPP logo" /></a>
 </p>
 
