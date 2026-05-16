@@ -60,6 +60,10 @@ I work in:
 <p>
   <a href="https://www.docker.com" title="Docker" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/master/docker-new-blue.svg"  width="30" height="30"  alt="Docker logo" /></a>
   <img width="5" />
+  <a href="https://aws.amazon.com/" title="AWS" target="_blank" rel="noreferrer"><img src="https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&bg=ffffff"  width="30" height="30" alt="AWS logo" /></a>
+  <img width="5" />
+  <a href="https://www.netlify.com/" title="Netlify" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/netlify-icon.svg"  width="30" height="30" alt="Netlify logo" /></a>
+  <img width="5" />
   <a href="https://www.modelcontextprotocol.org/" title="MCP" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/5ecf47ab8d9518448bdcf7b0ada0163717b87e00fdf9e7e3ae8e691dd222bb33/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f302f30652f4d6f64656c5f436f6e746578745f50726f746f636f6c5f6c6f676f2e706e67"  width="30" height="30" alt="MCP logo" /></a>
   <img width="5" />
   <a href="https://n8n.io" title="n8n" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/n8n-color.png"  width="30" height="30" alt="n8n logo" /></a>
