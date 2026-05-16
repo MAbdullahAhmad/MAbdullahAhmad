@@ -39,6 +39,8 @@ I work in:
   <img width="5" />
   <a href="https://jquery.com/" title="jQuery" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"  width="30" height="30"  alt="jQuery logo" /></a>
   <img width="5" />
+  <a href="https://tailwindcss.com/" title="Tailwind CSS" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"  width="30" height="30"  alt="Tailwind CSS logo" /></a>
+  <img width="5" />
   <a href="https://getbootstrap.com/" title="Bootstrap" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  width="30" height="30"  alt="Bootstrap logo" /></a>
   <img width="5" />
   <a href="https://mui.com/" title="Material UI" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"  width="30" height="30"  alt="Material UI logo" /></a>
