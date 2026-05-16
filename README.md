@@ -60,7 +60,7 @@
   <img width="5" />
   <a href="https://www.modelcontextprotocol.org/" title="MCP" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/5ecf47ab8d9518448bdcf7b0ada0163717b87e00fdf9e7e3ae8e691dd222bb33/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f302f30652f4d6f64656c5f436f6e746578745f50726f746f636f6c5f6c6f676f2e706e67"  width="30" height="30" alt="MCP logo" /></a>
   <img width="5" />
-  <a href="https://n8n.io" title="n8n" target="_blank" rel="noreferrer"><img src="https://wsrv.nl/?url=https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/n8n-color.png&bg=ffffff"  width="30" height="30" alt="n8n logo" /></a>
+  <a href="https://n8n.io" title="n8n" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/n8n-color.png"  width="30" height="30" alt="n8n logo" /></a>
   <img width="5" />
   <a href="https://www.cloudflare.com" title="Cloudflare" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/cloudflare-color.svg"  width="30" height="30"  alt="Cloudflare logo" /></a>
   <img width="5" />
@@ -91,9 +91,9 @@
   <img width="5" />
   <a href="https://numpy.org/" title="NumPy" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"  width="30" height="30"  alt="NumPy logo" /></a>
   <img width="5" />
-  <a href="https://pandas.pydata.org/" title="Pandas" target="_blank" rel="noreferrer"><img src="https://wsrv.nl/?url=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg&bg=ffffff"  width="30" height="30" alt="Pandas logo" /></a>
+  <a href="https://pandas.pydata.org/" title="Pandas" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"  width="30" height="30" alt="Pandas logo" /></a>
   <img width="5" />
-  <a href="https://jupyter.org/" title="Jupyter" target="_blank" rel="noreferrer"><img src="https://wsrv.nl/?url=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg&bg=ffffff"  width="30" height="30" alt="Jupyter Notebook logo" /></a>
+  <a href="https://jupyter.org/" title="Jupyter" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"  width="30" height="30" alt="Jupyter Notebook logo" /></a>
 </p>
 
 <!-- **Tools & IDEs** -->
@@ -102,11 +102,11 @@
   <img width="5" />
   <a href="https://code.visualstudio.com/" title="VSCode" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="30" height="30"  alt="VSCode logo" /></a>
   <img width="5" />
-  <a href="https://developer.android.com/studio" title="Android Studio" target="_blank" rel="noreferrer"><img src="https://wsrv.nl/?url=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg&bg=ffffff"  width="30" height="30" alt="Android Studio logo" /></a>
+  <a href="https://developer.android.com/studio" title="Android Studio" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"  width="30" height="30" alt="Android Studio logo" /></a>
   <img width="5" />
   <a href="https://www.gnu.org/software/bash/" title="Bash" target="_blank" rel="noreferrer"><img src="https://wsrv.nl/?url=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg&bg=ffffff"  width="30" height="30" alt="Bash logo" /></a>
   <img width="5" />
-  <a href="https://github.com/" title="GitHub" target="_blank" rel="noreferrer"><img src="https://wsrv.nl/?url=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg&bg=ffffff"  width="30" height="30" alt="GitHub logo" /></a>
+  <a href="https://github.com/" title="GitHub" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/e7e2e4c44e3f14bea8123598db8f7dc62fa0c77193e2e7b962bf871777cba717/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f706e672f6769746875622e706e67"  width="30" height="30" alt="GitHub logo" /></a>
 </p>
 
 <!-- **Hardware & Maker** -->
