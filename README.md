@@ -5,7 +5,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MAbdullahAhmad&theme=github-compact&days=30&grid=true&bg_color=0000&hide_border=true&line=4493f8&point=fff&custom_title=Last%2030%20Days%20Contributions)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-**Languages**
+<!-- **Languages** -->
 <p>
   <a href="https://www.python.org/" title="Python" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="30" height="30"  alt="Python logo" /></a>
   <img width="5" />
@@ -22,7 +22,7 @@
   <a href="https://www.php.net/" title="PHP" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  width="30" height="30"  alt="PHP logo" /></a>
 </p>
 
-**Frontend & Web**
+<!-- **Frontend & Web** -->
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="30" height="30"  alt="HTML logo" /></a>
   <img width="5" />
@@ -37,7 +37,7 @@
   <a href="https://mui.com/" title="Material UI" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"  width="30" height="30"  alt="Material UI logo" /></a>
 </p>
 
-**Frameworks & Stacks**
+<!-- **Frameworks & Stacks** -->
 <p>
   <a href="https://react.dev/" title="React" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="30" height="30"  alt="React logo" /></a>
   <img width="5" />
@@ -54,7 +54,7 @@
   <a href="https://neo4j.com/" title="Neo4j" target="_blank" rel="noreferrer"><img src="https://wsrv.nl/?url=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg&bg=ffffff"  width="30" height="30" alt="Neo4j logo" /></a>
 </p>
 
-**AI, Cloud & Integrations**
+<!-- **AI, Cloud & Integrations** -->
 <p>
   <a href="https://www.docker.com" title="Docker" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/master/docker-new-blue.svg"  width="30" height="30"  alt="Docker logo" /></a>
   <img width="5" />
@@ -81,7 +81,7 @@
   <a href="https://claude.ai" title="Claude" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/claude-color.svg"  width="30" height="30"  alt="Claude logo" /></a>
 </p>
 
-**Data & Machine Learning**
+<!-- **Data & Machine Learning** -->
 <p>
   <a href="https://www.tensorflow.org/" title="TensorFlow" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"  width="30" height="30"  alt="TensorFlow logo" /></a>
   <img width="5" />
@@ -96,7 +96,7 @@
   <a href="https://jupyter.org/" title="Jupyter" target="_blank" rel="noreferrer"><img src="https://wsrv.nl/?url=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg&bg=ffffff"  width="30" height="30" alt="Jupyter Notebook logo" /></a>
 </p>
 
-**Tools & IDEs**
+<!-- **Tools & IDEs** -->
 <p>
   <a href="https://www.linux.org/" title="Linux" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  width="30" height="30"  alt="Linux logo" /></a>
   <img width="5" />
@@ -109,7 +109,7 @@
   <a href="https://github.com/" title="GitHub" target="_blank" rel="noreferrer"><img src="https://wsrv.nl/?url=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg&bg=ffffff"  width="30" height="30" alt="GitHub logo" /></a>
 </p>
 
-**Hardware & Maker**
+<!-- **Hardware & Maker** -->
 <p>
   <a href="https://www.raspberrypi.com/" title="Raspberry Pi" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"  width="30" height="30"  alt="Raspberry Pi logo" /></a>
   <img width="5" />
@@ -118,7 +118,7 @@
   <a href="https://www.espressif.com/en/products/socs/esp32" title="ESP32" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/9460735?s=200&v=4"  width="30" height="30"  alt="ESP32 logo" /></a>
 </p>
 
-**Payments & Blockchain**
+<!-- **Payments & Blockchain** -->
 <p>
   <a href="https://stripe.com" title="Stripe" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/856813?s=200&v=4"  width="30" height="30"  alt="Stripe logo" /></a>
   <img width="5" />
