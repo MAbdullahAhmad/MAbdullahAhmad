@@ -11,6 +11,8 @@ This file explains how the `README.md` icons are organized.
 - Hardware & Maker: embedded and maker platform icons.
 - Payments & Blockchain: finance, payment processors, and blockchain brands.
 
+The README now uses commented section labels instead of visible headings, so the profile page shows logos only with no section text.
+
 Icons use SVG sources from devicons, Simple Icons, the lobehub/lobe-icons repo, the bwks/vendor-icons-svg repo, the gilbarbara/logos repo, worldvectorlogo.com, and verified official brand assets. Most integration icons are wrapped in links with hover titles for quick reference.
 
 Additional notes:
