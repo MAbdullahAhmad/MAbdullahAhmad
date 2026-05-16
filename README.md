@@ -58,19 +58,17 @@
 <p>
   <a href="https://www.docker.com" title="Docker" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/master/docker-new-blue.svg"  width="30" height="30"  alt="Docker logo" /></a>
   <img width="5" />
-  <a href="https://www.modelcontextprotocol.org/" title="MCP" target="_blank" rel="noreferrer"><img src="https://wsrv.nl/?url=https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/mcp.svg&bg=ffffff"  width="30" height="30" alt="MCP logo" /></a>
+  <a href="https://www.modelcontextprotocol.org/" title="MCP" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/5ecf47ab8d9518448bdcf7b0ada0163717b87e00fdf9e7e3ae8e691dd222bb33/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f302f30652f4d6f64656c5f436f6e746578745f50726f746f636f6c5f6c6f676f2e706e67"  width="30" height="30" alt="MCP logo" /></a>
   <img width="5" />
-  <a href="https://n8n.io" title="n8n" target="_blank" rel="noreferrer"><img src="https://wsrv.nl/?url=https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/n8n-color.svg&bg=ffffff"  width="30" height="30" alt="n8n logo" /></a>
+  <a href="https://n8n.io" title="n8n" target="_blank" rel="noreferrer"><img src="https://wsrv.nl/?url=https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/n8n-color.png&bg=ffffff"  width="30" height="30" alt="n8n logo" /></a>
   <img width="5" />
   <a href="https://www.cloudflare.com" title="Cloudflare" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/cloudflare-color.svg"  width="30" height="30"  alt="Cloudflare logo" /></a>
   <img width="5" />
-  <a href="https://vercel.com" title="Vercel" target="_blank" rel="noreferrer"><img src="https://wsrv.nl/?url=https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/vercel.svg&bg=ffffff"  width="30" height="30" alt="Vercel logo" /></a>
+  <a href="https://vercel.com" title="Vercel" target="_blank" rel="noreferrer"><img src="https://wsrv.nl/?url=https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vercel.svg&bg=ffffff"  width="30" height="30" alt="Vercel logo" /></a>
   <img width="5" />
-  <a href="https://groq.com" title="Groq" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/groq.svg"  width="30" height="30"  alt="Groq logo" /></a>
+  <a href="https://groq.com" title="Groq" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/7464134?v=4"  width="30" height="30"  alt="Groq logo" /></a>
   <img width="5" />
-  <a href="https://openai.com" title="OpenAI" target="_blank" rel="noreferrer"><img src="https://wsrv.nl/?url=https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/openai.svg&bg=ffffff"  width="30" height="30" alt="OpenAI logo" /></a>
-  <img width="5" />
-  <a href="https://github.com/features/copilot" title="GitHub Copilot" target="_blank" rel="noreferrer"><img src="https://wsrv.nl/?url=https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/githubcopilot.svg&bg=ffffff"  width="30" height="30" alt="GitHub Copilot logo" /></a>
+  <a href="https://openai.com" title="OpenAI" target="_blank" rel="noreferrer"><img src="https://wsrv.nl/?url=https://user-images.githubusercontent.com/57292172/223011977-371c1677-a8f3-4c06-87fb-b774243b0545.svg&bg=ffffff"  width="30" height="30" alt="OpenAI logo" /></a>
   <img width="5" />
   <a href="https://cloud.google.com" title="Google Cloud" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-cloud.svg"  width="30" height="30"  alt="Google Cloud logo" /></a>
 </p>
