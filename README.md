@@ -154,9 +154,13 @@ I work in:
 
 <!-- **Integrations** -->
 <p>
-  <a href="https://business.google.com/" title="Google Business Profile" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-icon.svg"  width="30" height="30"  alt="Google Business Profile logo" /></a>
+  <a href="https://cloud.google.com/" title="Google Cloud" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-cloud.svg"  width="30" height="30"  alt="Google Cloud logo" /></a>
   <img width="5" />
-  <a href="https://about.meta.com" title="Meta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/meta-color.svg"  width="30" height="30"  alt="Meta logo" /></a>
+  <a href="https://developers.facebook.com/" title="Meta for Developers" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/meta-color.svg"  width="30" height="30"  alt="Meta for Developers logo" /></a>
+  <img width="5" />
+  <a href="https://www.linkedin.com/developers/" title="LinkedIn Developers" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="30" height="30"  alt="LinkedIn Developers logo" /></a>
+  <img width="5" />
+  <a href="https://api.slack.com/" title="Slack API" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/slack-icon.svg"  width="30" height="30"  alt="Slack API logo" /></a>
 </p>
 
 <!-- Additional integrations kept commented for later use.

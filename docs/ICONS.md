@@ -24,7 +24,7 @@ Additional notes:
 - Tools & IDEs order: `VSCode`, `Bash`, `GitHub`, `Android Studio`.
 - Payments & Blockchain order: `PayPal`, `Stripe`, `Authorize.net`, `Ethereum`, `Binance / BNB`.
 - Deployment & Servers order: `Docker`, `Nginx`, `AWS`, `Cloudflare`, `Vercel`, `Netlify`, `XAMPP`.
-- `Google Business Profile` and `Meta` are grouped under Integrations after Payments & Blockchain.
+- Integrations use developer/app platform links: `Google Cloud`, `Meta for Developers`, `LinkedIn Developers`, and `Slack API`.
 - `21st.dev` is kept in a commented Standalone Tools block because it is a tool and currently the only icon in that category.
 - White-background icons are used selectively for logos that need contrast against the README background.
 - GitHub README sanitizes inline HTML/CSS, so `style="background:#fff"` may not render on profile pages. Use a pre-rendered white-background image or a proxy image wrapper such as `wsrv.nl`.
