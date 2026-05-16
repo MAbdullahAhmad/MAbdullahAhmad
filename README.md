@@ -60,7 +60,7 @@ I work in:
 <p>
   <a href="https://www.docker.com" title="Docker" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/master/docker-new-blue.svg"  width="30" height="30"  alt="Docker logo" /></a>
   <img width="5" />
-  <a href="https://aws.amazon.com/" title="AWS" target="_blank" rel="noreferrer"><img src="https://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&bg=ffffff"  width="30" height="30" alt="AWS logo" /></a>
+  <a href="https://aws.amazon.com/" title="AWS" target="_blank" rel="noreferrer"><img src="https://wsrv.nl/?url=https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png&bg=ffffff"  width="30" height="30" alt="AWS logo" /></a>
   <img width="5" />
   <a href="https://www.netlify.com/" title="Netlify" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/netlify-icon.svg"  width="30" height="30" alt="Netlify logo" /></a>
   <img width="5" />
