@@ -53,6 +53,8 @@ I work in:
   <img width="5" />
   <a href="https://www.postgresql.org/" title="PostgreSQL" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  width="30" height="30"  alt="PostgreSQL logo" /></a>
   <img width="5" />
+  <a href="https://supabase.com/" title="Supabase" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/54469796?v=4"  width="30" height="30"  alt="Supabase logo" /></a>
+  <img width="5" />
   <a href="https://neo4j.com/" title="Neo4j" target="_blank" rel="noreferrer"><img src="https://wsrv.nl/?url=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg&bg=ffffff"  width="30" height="30" alt="Neo4j logo" /></a>
 </p>
 
