@@ -1,6 +1,6 @@
 # 👋🏻 Welcome
 
-[![](https://ghstats.dev/api/card?username=MAbdullahAhmad&theme=tokyonight&hide_border=true)]
+![Chart](https://ghstats.dev/api/card?username=MAbdullahAhmad&hide_border=true)
 
 
 I work in:
